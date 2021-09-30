@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project using server side rendering for creating personal blog page. You can also signup and try out!!
+The project is done following Fireship.io tutorial
 
 ## Getting Started
 
